@@ -1,4 +1,10 @@
 
+
+# Gua-Vim
+
+
+## Description
+
 ```
                                  ___           ___           ___
                                  /\__\         /\  \         /\  \
@@ -24,18 +30,12 @@
                                 ~~~~           \/__/       \/__/
 ```
 
-# Gua-Vim
-
-
-## Description
-
-![](http://7xwh85.com1.z0.glb.clouddn.com/Gua-Vim%20screen%20shot.png)
 
 
 ## Screenshot
 
 **molokai theme**
-
+![](http://7xwh85.com1.z0.glb.clouddn.com/Gua-Vim%20screen%20shot.png)
 
 
 ## Setup
