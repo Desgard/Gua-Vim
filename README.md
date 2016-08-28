@@ -51,20 +51,21 @@ git clone git@github.com:Desgard/Gua-Vim.git
 
 
 #### 2.1 ctags and ag
-```
+
+```bash
 # ubuntu
 sudo apt-get install ctags
 sudo apt-get install build-essential cmake python-dev  # YCM delay
 sudo apt-get install silversearcher-ag
 
-# mac
+# macOS
 brew install ctags
 brew install the_silver_searcher
 ```
 
 #### 2.2 Use Python
 
-```
+```bash
 sudo pip install pyflakes
 sudo pip install pylint
 sudo pip install pep8
