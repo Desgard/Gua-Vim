@@ -88,7 +88,7 @@ npm install jslint -g
 ```
 
 
-#### 3. Install
+### 3. Install
 
 ```shell
 sh -x install.sh
